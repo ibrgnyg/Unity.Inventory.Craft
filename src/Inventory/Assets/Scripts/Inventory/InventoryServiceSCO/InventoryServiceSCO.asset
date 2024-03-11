@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c27ab3192a876aa48a4e5c32054b2473, type: 3}
+  m_Name: InventoryServiceSCO
+  m_EditorClassIdentifier: 
+  slots:
+  - Id: 0ee3cee3-dee0-40d6-8e96-695be13adbf3
+    IsFull: 0
+    SlotCount: 2
+    item: {fileID: 11400000, guid: 3d3f991760239f546b1e85b5fba64626, type: 2}
+  - Id: d22aa086-baed-4da8-bc24-83dec16e1a55
+    IsFull: 1
+    SlotCount: 2
+    item: {fileID: 11400000, guid: 8445d3ac925eae04a98d286c6718f735, type: 2}
+  - Id: ac0db918-8e59-4713-a400-1fa58dfbd8d8
+    IsFull: 0
+    SlotCount: 1
+    item: {fileID: 11400000, guid: a2bf7b7f4c3634b40980dc70e5311585, type: 2}
+  - Id: 7aca3590-f26c-4772-bce6-3a673d58cbe6
+    IsFull: 0
+    SlotCount: 2
+    item: {fileID: 11400000, guid: 5f7fbd3f356542247a54290f582fb6dd, type: 2}
+  - Id: fed0d9a2-0320-4e86-87cb-7a9cc6bf36ef
+    IsFull: 0
+    SlotCount: 1
+    item: {fileID: 11400000, guid: be1c793407e37094db4ca13af6e40ca8, type: 2}

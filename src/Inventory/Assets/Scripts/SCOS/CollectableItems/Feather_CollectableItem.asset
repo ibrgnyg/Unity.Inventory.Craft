@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6968b0b2ebef37745bf12932387cbec7, type: 3}
+  m_Name: Feather_CollectableItem
+  m_EditorClassIdentifier: 
+  Name: Feather
+  Description: "ok yap\u0131m\u0131 i\xE7in ku\u015F tuyu"
+  CollectablItemType: 14
+  CanStack: 1
+  MaxSlotCount: 50
+  DropCount: 0
+  Icon: {fileID: 21300000, guid: 85fae25e084bfdb4f8bea9d69a0ab25d, type: 3}
+  Prefab: {fileID: 0}
