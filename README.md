@@ -4,7 +4,7 @@
 More than one saved types  SCO (Unity ScriptableObject), Local file, MongoDB
 
 
-![Alt Text](https://s6.ezgif.com/tmp/ezgif-6-a56cdeb853.gif)
+![Alt Text]([https://s6.ezgif.com/tmp/ezgif-6-a56cdeb853.gif](https://github.com/ibrgnyg/Unity.Inventory.Craft/blob/main/MDContent/inventoies_gif.gif))
 
 ## Inventories - SCO  (Unity ScriptableObject)
 
